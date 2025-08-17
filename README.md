@@ -57,7 +57,7 @@ Shows visualizations from Pizza Sales Dashborad :
 
 | Pizza Sales Dashboard (Best & Worst Sales Performance) |
 | ----------- |
-| ![Pizza Sales Dashboard-2](https://user-images.githubusercontent.com/118357991/227767508-8667b273-6a78-40fa-bc20-78fc88c155cc.png) |
+| ![Pizza Sales Dashboard-2](https://github.com/rohitaage17/Pizza_Sales_Dashoboard/blob/main/Best_Worst_Pizza_Sales.png) |
 
 ## Insights :
 
