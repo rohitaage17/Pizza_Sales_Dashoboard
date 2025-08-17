@@ -53,7 +53,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Shows visualizations from Pizza Sales Dashborad :
 | Pizza Sales dashboard (Overview) |
 | ----------- |
-| ![Pizza Sales Dashboard-1](https://user-images.githubusercontent.com/118357991/227767359-463d93ee-5436-4f6a-ab7d-705c11d0dfbf.png) |
+| ![Pizza Sales Dashboard-1](https://github.com/rohitaage17/Pizza_Sales_Dashoboard/blob/main/Pizza_Sales_Dashboard.png) |
 
 | Pizza Sales Dashboard (Best & Worst Sales Performance) |
 | ----------- |
