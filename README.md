@@ -73,7 +73,3 @@ From the dashboard, the following insights were observed:
 - On average, customers ordered ~2.3 pizzas per order.
 
 
-  ## Note
-- The dataset used in this project contains **50,000+ rows of pizza sales data**.  
-- Due to GitHub file size limitations, unble to upload file.
-- You can use below link to preview.[(Preview)](https://app.powerbi.com/groups/me/reports/81d607bc-013e-417c-bbc3-9fef011cf6c4/dc79c2924c4096dd0c6c?experience=power-bi)
