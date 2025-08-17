@@ -1,5 +1,5 @@
 # Pizza_Sales_Dashoboard
-## 🍕 Pizza Sales Dashboard (Freelancing Project)
+## 🍕 Pizza Sales Dashboard 
 ### Table of Contents :
 - Problem Statement 
 - Datasource 
