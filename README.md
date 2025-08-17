@@ -72,4 +72,9 @@ From the dashboard, the following insights were observed:
 - Friday and Saturday recorded the highest sales, while Monday had the lowest.
 - On average, customers ordered ~2.3 pizzas per order.
 
+## Dataset
+- The dataset used in this project contains **50,000+ rows of pizza sales data**.  
+- Due to GitHub file size limitations, unble to upload file.
+- You can use below link to [Dashboard Preview]( (https://drive.google.com/file/d/1o5UYXjWGifZHNZqpW0a-0ptuduL6-fYr/view?usp=drive_link))
+
 
